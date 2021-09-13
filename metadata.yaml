@@ -1,5 +1,8 @@
 _repo: Travels-through-the-states-of-North-America-and-the-provinces-of-Upper-and-Lower-Canada-durin__66096
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66096-h/images/cover.jpg
 creator:
   author:
     agent_name: Weld, Isaac
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53578
     wikipedia: https://en.wikipedia.org/wiki/Isaac_Weld
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66096#Travels-through-the-states-of-North-America-and-the-provinces-of-Upper-and-Lower-Canada-durin_
 gutenberg_issued: '2021-08-20'
 identifiers:
   gutenberg: '66096'
